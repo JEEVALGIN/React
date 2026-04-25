@@ -1,0 +1,3 @@
+React is a JavaScript library created by Facebook to help create user interfaces, especially for single-page applications where the interface changes often and data updates a lot. It lets developers build reusable pieces of the interface, each managing its own state, which makes apps more efficient and simpler to maintain.
+
+https://media.geeksforgeeks.org/wp-content/uploads/20250802111335673553/how_doest_react_js_work.webp
