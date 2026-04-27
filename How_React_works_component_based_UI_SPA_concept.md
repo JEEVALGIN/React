@@ -12,3 +12,15 @@ Step 1: Render Phase: When a React component renders, it creates a Virtual DOM r
 Step 2: Diffing Algorithm: React compares the current Virtual DOM with a previous version to determine what has changed.
 
 Step 3: Reconciliation: React applies only the necessary changes to the real DOM, improving performance and minimizing reflows and repaints.
+
+* React and React JS is same. 
+* React is JS library not Framework.
+* React is Open Source.
+
+COMPONENT:
+  reuseable and seff-contained
+
+VIRTUAL DOM:-
+*DOM(Document Object Module)
+
+SPA(Single Page Application)
